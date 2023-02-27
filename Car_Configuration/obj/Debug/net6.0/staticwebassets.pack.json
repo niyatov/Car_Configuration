@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Car_Configuration.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Car_Configuration.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\0df4926fd06c408e85473d48bdc7e4d1.jpg",
+      "PackagePath": "staticwebassets\\images\\0df4926fd06c408e85473d48bdc7e4d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\49746111eb184f6395ecd4198075c4f7.jpg",
+      "PackagePath": "staticwebassets\\images\\49746111eb184f6395ecd4198075c4f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\39882b52-839d-48c4-9236-8cc32782c8d6.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\39882b52-839d-48c4-9236-8cc32782c8d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\49657c14518d4241a57ab2bf937d72d5.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\49657c14518d4241a57ab2bf937d72d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\4e8cb41b35f24c3aa8ecc44c26af9a65.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\4e8cb41b35f24c3aa8ecc44c26af9a65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\6d5572367a4a4eae802c768931620765.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\6d5572367a4a4eae802c768931620765.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\70f913be17e645b081012c048b110543.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\70f913be17e645b081012c048b110543.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\821e7138-5a59-412f-8032-e9014efbff87.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\821e7138-5a59-412f-8032-e9014efbff87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\896b0324aadd4b68b60bb0bedf40c679.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\896b0324aadd4b68b60bb0bedf40c679.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\9e89576f070e427684746a3bf9e37670.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\9e89576f070e427684746a3bf9e37670.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\a1e9fd0c2a444802817fb423a492f90f.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\a1e9fd0c2a444802817fb423a492f90f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\c463facd-8ddd-43db-a2b5-309fe23d1ef5.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\c463facd-8ddd-43db-a2b5-309fe23d1ef5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\c632eca1cde648b6bac4cec37872df30.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\c632eca1cde648b6bac4cec37872df30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\c7003b6d73844ede967ec53afca8fdda.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\c7003b6d73844ede967ec53afca8fdda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\c994490f963f4b8b92238ba80f6aa4e0.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\c994490f963f4b8b92238ba80f6aa4e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\d39ff406824843c0923d55251f09408a.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\d39ff406824843c0923d55251f09408a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\d90a42a0336f42a8b76999a13b88fa23.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\d90a42a0336f42a8b76999a13b88fa23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\538843bc63c54616a034e6990404c4bc\\ec85306cc8494636871d7347e86455d1.jpg",
+      "PackagePath": "staticwebassets\\images\\538843bc63c54616a034e6990404c4bc\\ec85306cc8494636871d7347e86455d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\04f71da3a56b4656ba37823f8650fb1e.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\04f71da3a56b4656ba37823f8650fb1e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\3dbf7516358c40bf93701fff8c71f2aa.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\3dbf7516358c40bf93701fff8c71f2aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\40540124efea41e7bbbf02af0fcc0146.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\40540124efea41e7bbbf02af0fcc0146.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\69977abd48614f4abf8a490edfd32089.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\69977abd48614f4abf8a490edfd32089.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\98dcbbfd-09fe-4763-93dd-24bd98f2d137.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\98dcbbfd-09fe-4763-93dd-24bd98f2d137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\a24e5bb9820a4e868e32c9fe4d276a99.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\a24e5bb9820a4e868e32c9fe4d276a99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\b4e8d22cb55941249ba55d2b035c0b0f.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\b4e8d22cb55941249ba55d2b035c0b0f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\dbd57553314d492fad09553a5cc3d6f6.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\dbd57553314d492fad09553a5cc3d6f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\e1ff16d863de46328b5be618e17104e0.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\e1ff16d863de46328b5be618e17104e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\f71257e12101438198c18d451c1aa02b.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\f71257e12101438198c18d451c1aa02b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\5dfbce7923014e14933de3ade08f0354\\fceee820-8ae0-4639-8bb1-d5540c81ea95.jpg",
+      "PackagePath": "staticwebassets\\images\\5dfbce7923014e14933de3ade08f0354\\fceee820-8ae0-4639-8bb1-d5540c81ea95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\7316c612f2a447f5a9034a6b0faa072d.jpg",
+      "PackagePath": "staticwebassets\\images\\7316c612f2a447f5a9034a6b0faa072d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\784a6b2c0eff44e7999760bfc2987c7c.jpg",
+      "PackagePath": "staticwebassets\\images\\784a6b2c0eff44e7999760bfc2987c7c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\images\\fcf3ad41b0ed41aab506502f7c5c1f5d.jpg",
+      "PackagePath": "staticwebassets\\images\\fcf3ad41b0ed41aab506502f7c5c1f5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Car_Configuration\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Car_Configuration.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Car_Configuration.props",
+      "PackagePath": "build\\Car_Configuration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Car_Configuration.props",
+      "PackagePath": "buildMultiTargeting\\Car_Configuration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Car_Configuration.props",
+      "PackagePath": "buildTransitive\\Car_Configuration.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

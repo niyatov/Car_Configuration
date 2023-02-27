@@ -1,0 +1,41 @@
+﻿@model List<List<string>>
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">ColorModelName</th>
+                <th scope="col">WheelName</th>
+                <th scope="col">IsExist</th>
+            </tr>
+
+        </thead>
+        <tbody>
+
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                <tr>
+                    <th scope="row">@(i + 1)</th>
+                    <th scope="row">@Model[i][0]</th>
+                    <th scope="row">@Model[i][1]</th>
+                    <th scope="row">@Model[i][2]</th>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <div style="text-align:center;">
+        <h1>no color and wheel</h1>
+    </div>
+    <br />
+    <br />
+}
+
+<br />
+<a asp-controller="Models" asp-action="GetModels" class="btn btn-info"> Go to Models </a>

@@ -1,0 +1,37 @@
+﻿@model List<GetWheelsVM>?
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">ModelName</th>
+
+            </tr>
+
+        </thead>
+        <tbody>
+
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                <tr>
+                    <th scope="row">@(i + 1)</th>
+                    <td> <a asp-controller="Wheels" asp-action="GetWheel" asp-route-wheelId="@Model[i].Id" class="btn btn-info"> @Model[i].Name </a></td>
+                    <th scope="row">@Model[i].ModelName</th>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <div style="text-align:center;">
+        <h1>no wheels</h1>
+    </div>
+    <br />
+    <br />
+}

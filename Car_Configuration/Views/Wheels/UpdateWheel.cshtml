@@ -1,0 +1,27 @@
+﻿@using Car_Configuration.Dtoes;
+@model UpdateWheelDto
+
+<form method="post" asp-action="UpdateWheel" asp-route-wheelId="@ViewData["wheelId"]" class="mx-1 mx-md-4" enctype="multipart/form-data">
+
+    <div class="mb-3">
+        <label for="Name" class="form-label">Name</label>
+        <input type="text" asp-for="Name" class="form-control">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="file">Image</label>
+        <input type="file" class="form-control-file" id="file" name="file">
+    </div>
+
+    <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+        <button type="submit" class="btn btn-warning btn-lg">Update</button>
+    </div>
+
+</form>
+
+<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+<br />
+<br />
+<td> <a asp-controller="Wheels" asp-action="GetWheel" asp-route-wheelId=@ViewData["wheelId"] class="btn btn-info"> Go to Wheels </a></td>

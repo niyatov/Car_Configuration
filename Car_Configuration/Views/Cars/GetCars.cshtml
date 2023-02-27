@@ -1,0 +1,45 @@
+﻿@using Car_Configuration.Dtoes;
+@model List<GetCarsVM>?
+
+@if(Model is not null &&  Model.Count() > 0)
+{
+    <figure class="row">
+        <p>Your favorite cars:</p>
+
+
+        @foreach (var mod in Model)
+        {
+            <figure class="column">
+
+                <figcaption style="align-items:center">
+                    <img src="~/@mod.ImagePath" width="365" ; height="200" ; style="margin-right: 5px; margin-bottom: 5px; " />
+                    <a asp-controller="Cars" asp-action="GetCar" asp-route-carId="@mod.Id" class="btn btn-info btn-primary"> @mod.ModelName </a>
+                </figcaption>
+
+            </figure>
+        }
+    </figure>
+
+}
+else
+{
+    <div style="text-align:center;">
+        <h1>no cars</h1>
+    </div>
+    <br />
+    <br />
+}
+
+<style>
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+</style>

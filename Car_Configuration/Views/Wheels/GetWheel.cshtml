@@ -1,0 +1,22 @@
+﻿@model GetWheelVM
+
+<div style="text-align:center;">
+
+    <h6>Name : @Model.Name</h6>
+
+    <div style="padding:10px;">
+
+        <img src="~/@Model.ImagePath" alt="image" width="600px" height="300px" />
+
+    </div>
+
+    <a asp-controller="Wheels" asp-action="UpdateWheel" asp-route-wheelId="@Model.Id" class="btn btn-warning"> Update </a>
+    <a asp-controller="Wheels" asp-action="DeleteWheel" asp-route-wheelId="@Model.Id" class="btn btn-danger"> Delete </a>
+
+</div>
+
+
+<br />
+<br />
+<br />
+<a asp-controller="Wheels" asp-action="GetWheels" class="btn btn-info"> Go to Wheels </a>

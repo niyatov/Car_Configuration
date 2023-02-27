@@ -1,0 +1,26 @@
+﻿@{
+    string imagePath = @ViewBag.ColorWheelPath;
+    int colorId = @ViewBag.ColorId;
+    int wheelId = @ViewBag.WheelId;
+    int modelId = ViewBag.ModelId;
+    string modeName = ViewBag.ModelName;
+    string colorName = ViewBag.ColorName;
+    string wheelName = ViewBag.WheelName;
+}
+
+<div style="text-align:center;">
+    <h6>ModelName : @modeName</h6>
+    <h6>ColorName : @colorName</h6>
+    <h6>WheelName : @wheelName</h6>
+
+<div style="padding:10px;">
+    <img src="~/@imagePath" alt="image" width="600px" height="300px" />
+</div>
+
+<br />
+<a asp-controller="Cars" asp-action="ChooseColorAndWheel" asp-route-modelId="@modelId" class="btn btn-info"> Back </a>
+    <a asp-controller="Cars" asp-action="SaveCar" asp-route-colorId="@colorId" asp-route-wheelId="@wheelId" class="btn btn-info btn-primary"> Save </a>
+</div>
+<br />
+
+<div class="text-danger" asp-validation-summary="ModelOnly"></div>

@@ -1,0 +1,20 @@
+﻿@model GetCarVM
+
+<div style="text-align:center;">
+
+    <h6>ModelName : @Model.ModelName</h6>
+    <h6>ColorName : @Model.ColorName</h6>
+    <h6>WheelName : @Model.WheelName</h6>
+
+    <div style="padding:10px;">
+
+        <img src="~/@Model.ImagePath" alt="image" width="600px" height="300px" />
+
+    </div>
+
+    <a asp-controller="Cars" asp-action="deleteCar" asp-route-carId="@Model.CarId" class="btn btn-danger"> Delete </a>
+
+</div>
+<br />
+<br />
+<a asp-controller="Cars" asp-action="GetCars" class="btn btn-info"> Go to Cars </a>

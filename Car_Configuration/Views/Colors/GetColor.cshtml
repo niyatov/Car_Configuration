@@ -1,0 +1,21 @@
+﻿@model GetColorVM
+
+<div style="text-align:center;">
+
+    <h6>Name : @Model.Name</h6>
+
+    <div style="padding:10px;">
+
+        <img src="~/@Model.ImagePath" alt="image" width="600px" height="300px" />
+
+    </div>
+
+    <a asp-controller="Colors" asp-action="UpdateColor" asp-route-colorId="@Model.Id" class="btn btn-warning"> Update </a>
+    <a asp-controller="Colors" asp-action="deleteColor" asp-route-colorId="@Model.Id" class="btn btn-danger"> Delete </a>
+
+</div>
+
+<br />
+<br />
+<br />
+<a asp-controller="Colors" asp-action="GetColors" class="btn btn-info"> Go to Colors </a>

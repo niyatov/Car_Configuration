@@ -1,0 +1,61 @@
+﻿@using Car_Configuration.Dtoes;
+@model ModelDto
+
+@{
+    List<ChooseModelDto> models = new List<ChooseModelDto>();
+    models = @ViewBag.Models;
+}
+
+@if(models is not null && models.Count() > 0)
+{
+    <form asp-controller="Cars" asp-action="ChooseColorAndWheel">
+
+        <figure class="row">
+            <p>Please select your favorite car model:</p>
+            @foreach (var mod in models)
+            {
+
+                <figure class="column">
+                    <img src="~/@mod.ImagePath" width="365" ; height="200" ; style="margin-right: 5px; margin-bottom: 5px; " />
+
+                    <figcaption style="align-items:center">
+                        <input type="radio" id=" html" name="modelId" value="@mod.Id ">
+                        <label for="html">@mod.Name</label>
+                    </figcaption>
+
+                    <br>
+                </figure>
+            }
+        </figure>
+
+        <div style="text-align:center;">
+            <button type="submit" class="btn btn-primary btn-lg">Next</button>
+        </div>
+
+    </form>
+    <br />
+
+    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+}
+else
+{
+    <div style="text-align:center;">
+        <h1>no models</h1>
+    </div>
+    <br />
+    <br />
+}
+
+<style>
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+</style>

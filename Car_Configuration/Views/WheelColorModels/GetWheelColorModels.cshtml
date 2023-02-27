@@ -1,0 +1,40 @@
+﻿@model List<GetWheelColorModelsVM>?
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">ModelName</th>
+                <th scope="col">ColorModelName</th>
+                <th scope="col">WheelName</th>
+                <th scope="col">Image</th>
+            </tr>
+
+        </thead>
+        <tbody>
+
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                <tr>
+                    <th scope="row">@(i + 1)</th>
+                    <td scope="row"> @Model[i].ModelName </td>
+                   <td scope="row" > @Model[i].ColorModelName </td>
+                     <td scope="row" > @Model[i].WheelName </td>
+                    <td> <a asp-controller="WheelColorModels" asp-action="GetWheelColorModel" asp-route-wheelColorModelId="@Model[i].Id" class="btn btn-info"> image </a></td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <div style="text-align:center;">
+        <h1>no wheeColorModels</h1>
+    </div>
+    <br />
+    <br />
+}

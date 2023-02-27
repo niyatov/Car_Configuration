@@ -1,0 +1,44 @@
+﻿@using CarConfiguration_api.Dtoes;
+@model CreateCarDto
+
+@{
+    List<GetModelVM> models = new List<GetModelVM>();
+    models = @ViewBag.Models;
+}
+
+<form  method="post">
+
+    <figure class="row">
+  <p>Please select your favorite car model:</p>
+    @foreach (var mod in models)
+    {
+            <figure class="column">
+            <img src="~/@mod.ImagePath" width="365" ; height="200"; style="margin-right: 5px; margin-bottom: 5px; " />
+
+                <figcaption style="align-items:center" >
+                    <input type="radio" id=" html" asp-for="ModelId" value="@mod.Id ">
+                    <label for="html">@mod.Name</label>
+                </figcaption>
+            
+            <br>
+            </figure>
+    }
+    </figure>
+    <button type="submit" class="btn btn-primary btn-lg">Create</button>
+</form>
+
+
+<style>
+        .column
+
+    {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+    .row::after {
+        content: "";
+         clear: both;
+        display: table;
+    }
+</style>

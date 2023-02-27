@@ -1,0 +1,22 @@
+﻿@model GetModelVM
+
+<div style="text-align:center;">
+
+    <h6>Name : @Model.Name</h6>
+
+    <div style="padding:10px;">
+
+        <img src="~/@Model.ImagePath" alt="image" width="600px" height="300px" />
+
+    </div>
+
+    <a asp-controller="Models" asp-action="UpdateModel" asp-route-modelId="@Model.Id" class="btn btn-warning"> Update </a>
+    <a asp-controller="Models" asp-action="DeleteModel" asp-route-modelId="@Model.Id" class="btn btn-danger"> Delete </a>
+
+</div>
+
+
+<br />
+<br />
+<br />
+<a asp-controller="Models" asp-action="GetModels" class="btn btn-info"> Go to Models </a>
